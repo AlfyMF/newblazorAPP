@@ -37,12 +37,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-vGFwaKfFM3AV03zy0bqsU7oWiZaq7\/kJ9NNKBOZS2\/A=",
-      "url": "MyBlazorPWA.styles.css"
-    },
-    {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-vGFwaKfFM3AV03zy0bqsU7oWiZaq7\/kJ9NNKBOZS2\/A=",
+      "url": "MyBlazorPWA.styles.css"
     },
     {
       "hash": "sha256-tZ3Z0q6xQTgUxlWgiWvzS4SBQeBqETtRGtUWvVaU31w=",
