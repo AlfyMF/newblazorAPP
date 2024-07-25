@@ -1033,3 +1033,6 @@ C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\obj\Release\net8.0\MyBlazorPW
 C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\obj\Release\net8.0\refint\MyBlazorPWA.dll
 C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\obj\Release\net8.0\MyBlazorPWA.pdb
 C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\obj\Release\net8.0\ref\MyBlazorPWA.dll
+C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\bin\Release\net8.0\sample-data\weather.json
+C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\bin\Release\net8.0\_framework\blazor.boot.json
+C:\Users\alfy.francis\Documents\DotNet\MyBlazorPWA\obj\Release\net8.0\MyBlazorPWA.sourcelink.json
