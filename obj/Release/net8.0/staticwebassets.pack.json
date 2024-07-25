@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\obj\\Release\\net8.0\\compressed\\xhtjqdq3bs.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\obj\\Release\\net8.0\\scopedcss\\bundle\\MyBlazorPWA.styles.css",
+      "PackagePath": "staticwebassets\\MyBlazorPWA.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\obj\\Release\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\obj\\Release\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\alfy.francis\\Documents\\DotNet\\MyBlazorPWA\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MyBlazorPWA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MyBlazorPWA.props",
+      "PackagePath": "build\\MyBlazorPWA.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlazorPWA.props",
+      "PackagePath": "buildMultiTargeting\\MyBlazorPWA.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyBlazorPWA.props",
+      "PackagePath": "buildTransitive\\MyBlazorPWA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
